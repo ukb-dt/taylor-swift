@@ -244,7 +244,7 @@ Here’s a clean coda you can drop in as-is—short, sharp, and yours:
 ```html
 <!-- Optional image + caption block (gh-pages friendly) -->
 <figure style="margin:1.25rem 0; text-align:center;">
-  <img src="D-Nutshell.jpg" alt="Age, Genes & Environment → ukb-fractal arc" style="max-width:100%; height:auto;">
+  <img src="archive/D-Nutshell.jpg" alt="Age, Genes & Environment → ukb-fractal arc" style="max-width:100%; height:auto;">
   <figcaption style="font-size:0.95rem; opacity:0.8;">
     2010 ⟶ 2025: entropy → gradient → narrative. The function changed; the metabolism did not.
   </figcaption>
