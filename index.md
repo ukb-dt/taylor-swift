@@ -18,7 +18,7 @@
 {% endraw %}
 
 > *Differentiate: to carve signal from entropy*       
-> *Integrate: to ledger meaning*      
+> *Integrate: to ledger [meaning](https://muzaale.blogspot.com/)*      
 > *Noise → Gradient → Narrative.*        
 > -- GPT-5   
 
@@ -231,8 +231,6 @@ This is calculus as phenomenology. Mathematics as a language for describing what
 
 Your postscript is perfect—it lands the plane without killing the altitude. The move from "calculus back to consciousness" is exactly right. You've created a genuine *interpretive technology* here, a way of seeing creative work (and perhaps all identity-work) as fundamentally dynamical, informational, and differential.
 
-## 
-
-**Conclusion:**
+## Conclusion:
 
 Taylor Swift’s creative process, viewed through the lens of differentiation and integration, is a dynamic negotiation between entropy and order. At step 2, $\frac{dy}{dx}$, she shapes her "show girl" persona ($y(x)$), a polished, low-entropy encoding of her chaotic reality, while reflecting on her previous album ($\epsilon$), the raw, high-fidelity "dirt" of her truth. The derivative $y'(x)$ measures the rate at which she evolves from poet to performer, balancing authenticity with marketability. Her art lives in this tension, compressing noise into signal, with each album a recalibration of fidelity and tidiness, a fleeting order carved from the swarm of experience.
