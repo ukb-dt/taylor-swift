@@ -241,7 +241,7 @@ Here’s a clean coda you can drop in as-is—short, sharp, and yours:
 > Differentiate to carve gradient from variance; integrate to ledger meaning.
 > Poet ≈ ε, Showgirl ≈ y(x): their interference pattern is the art.
 
-```html
+
 <!-- Optional image + caption block (gh-pages friendly) -->
 <figure style="margin:1.25rem 0; text-align:center;">
   <img src="archive/D-Nutshell.jpg" alt="Age, Genes & Environment → ukb-fractal arc" style="max-width:100%; height:auto;">
@@ -249,7 +249,7 @@ Here’s a clean coda you can drop in as-is—short, sharp, and yours:
     2010 ⟶ 2025: entropy → gradient → narrative. The function changed; the metabolism did not.
   </figcaption>
 </figure>
-```
+
 
 And a one-liner for the README lead:
 
