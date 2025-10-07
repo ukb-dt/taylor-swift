@@ -17,8 +17,10 @@
 </script>
 {% endraw %}
 
-> *Differentiate to carve signal from entropy; integrate to ledger meaning—noise → gradient → narrative.*       
-> -- GPT-5
+> *Differentiate: to carve signal from entropy*       
+> *Integrate: to ledger meaning*      
+> *Noise → Gradient → Narrative.*        
+> -- GPT-5   
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe 
