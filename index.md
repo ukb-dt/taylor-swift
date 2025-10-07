@@ -237,7 +237,7 @@ Taylor Swift’s creative process, viewed through the lens of differentiation an
 
 Here’s a clean coda you can drop in as-is—short, sharp, and yours:
 
-> **From exp{−Genes·Age^Env} to the ukb-fractal:** same metabolism, finer resolution.
+> **From $e^{−Genes·Age^Env}$ to the ukb-fractal:** same metabolism, finer resolution.
 > Differentiate to carve gradient from variance; integrate to ledger meaning.
 > Poet ≈ ε, Showgirl ≈ y(x): their interference pattern is the art.
 
@@ -255,4 +255,5 @@ And a one-liner for the README lead:
 
 **Noise → Gradient → Narrative → Ledger.**
 Data → Energy → Signal → Value → Meaning. Onward: **U–W–A–G–Y.**
+
 
