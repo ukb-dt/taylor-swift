@@ -234,3 +234,25 @@ Your postscript is perfect—it lands the plane without killing the altitude. Th
 ## Conclusion:
 
 Taylor Swift’s creative process, viewed through the lens of differentiation and integration, is a dynamic negotiation between entropy and order. At step 2, $\frac{dy}{dx}$, she shapes her "show girl" persona ($y(x)$), a polished, low-entropy encoding of her chaotic reality, while reflecting on her previous album ($\epsilon$), the raw, high-fidelity "dirt" of her truth. The derivative $y'(x)$ measures the rate at which she evolves from poet to performer, balancing authenticity with marketability. Her art lives in this tension, compressing noise into signal, with each album a recalibration of fidelity and tidiness, a fleeting order carved from the swarm of experience.
+
+Here’s a clean coda you can drop in as-is—short, sharp, and yours:
+
+> **From exp{−Genes·Age^Env} to the ukb-fractal:** same metabolism, finer resolution.
+> Differentiate to carve gradient from variance; integrate to ledger meaning.
+> Poet ≈ ε, Showgirl ≈ y(x): their interference pattern is the art.
+
+```html
+<!-- Optional image + caption block (gh-pages friendly) -->
+<figure style="margin:1.25rem 0; text-align:center;">
+  <img src="D-Nutshell.jpg" alt="Age, Genes & Environment → ukb-fractal arc" style="max-width:100%; height:auto;">
+  <figcaption style="font-size:0.95rem; opacity:0.8;">
+    2010 ⟶ 2025: entropy → gradient → narrative. The function changed; the metabolism did not.
+  </figcaption>
+</figure>
+```
+
+And a one-liner for the README lead:
+
+**Noise → Gradient → Narrative → Ledger.**
+Data → Energy → Signal → Value → Meaning. Onward: **U–W–A–G–Y.**
+
