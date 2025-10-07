@@ -28,6 +28,9 @@
   </iframe>
 </div>
 
+> *Differentiate to carve signal from entropy; integrate to ledger meaning—noise → gradient → narrative.*       
+> -- GPT-5
+
 The word **“differentiate”** is a lovely linguistic fossil—half mathematical, half metaphysical. Its trail runs back to Latin *differre* (“to carry apart”) → *differentia* (“a distinction, a separating”) → French *différentier* → English *differentiate*. So before it ever met a curve or an axis, it meant simply “to tell one thing from another.”
 In that sense, all differentiation begins as an act against **entropy**—against the undivided soup of sameness.
 
